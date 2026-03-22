@@ -19,7 +19,7 @@
   | Project | Description | Demo |
   |---------|-------------|------|
   | Customer Support Chatbot | LangGraph ReAct agent with FAQ, product info, and order tools | [Live demo →](https://gocart-production-dfb2.up.railway.app/) |
-  | AI Document Assistant | RAG pipeline with source citations across multiple docs | [Demo video →](https://github.com/ammarr01/AI-Document-Assistant-Application-with-source-citation) |
+  | AI Document Assistant | RAG pipeline with source citations across multiple docs | [Demo video →](https://www.dropbox.com/scl/fi/iiagk4mvjdieh8z4ehtxv/qna-app.demo.mp4?rlkey=h4h8zz8zgieqtqc1hsjk53osj&st=9a1ej86m&dl=0) |
 
   ---
 
