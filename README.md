@@ -1,42 +1,87 @@
-  ## What I build
+<div align="center">
 
-  AI systems that automate real business operations.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=140&section=header&text=AMMAR&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20AI%20Engineer%20%7C%20RAG%20Pipelines%20%26%20LLM%20Agents%20for%20Business%20Automation&descSize=16&descAlignY=75" width="100%"/>
 
-  - **Customer support automation**: chatbots that handle FAQs, order tracking, and support tickets 24/7 without human intervention
-  - **Document intelligence**: RAG pipelines that let teams query large document libraries and get answers with source citations
-  - **Custom LLM integrations**: connecting language models to your existing tools, databases, and workflows
+</div>
 
-  ---
+---
 
-  ## Stack
+## What I Build
 
-  Python · FastAPI · LangChain · LangGraph · LlamaIndex · OpenAI · ChromaDB · Pinecone . Docker · Ollama · 
+Full stack AI systems that automate real business operations, from the React frontend to the Python backend to the LLM pipeline itself.
 
-  ---
+- **Customer support automation**: chatbots that handle FAQs, order tracking, and support tickets 24/7 without human intervention
+- **Document intelligence**: RAG pipelines that let teams query large document libraries and get answers with source citations
+- **Custom LLM integrations**: connecting language models to your existing tools, databases, and workflows
 
-  ## Live projects
+---
 
-  | Project | Description | Demo |
-  |---------|-------------|------|
-  | Customer Support Chatbot | LangGraph ReAct agent with FAQ, product info, and order tools | [Live demo →](https://gocart-production-dfb2.up.railway.app/) |
-  | AI Document Assistant | RAG pipeline with source citations across multiple docs | [Demo video →](https://www.dropbox.com/scl/fi/iiagk4mvjdieh8z4ehtxv/qna-app.demo.mp4?rlkey=h4h8zz8zgieqtqc1hsjk53osj&st=9a1ej86m&raw=1) |
-  | AI Doc to Excel | Extracts structured data from PDFs, scanned documents, and images into Excel. | [Demo video →](https://www.dropbox.com/scl/fi/fmm689ha6oeze38vs9ql9/DocTOExcel.demo.mp4?rlkey=mwp6nt72enf5ggtw173ap62bo&st=id0z0osd&raw=1) |
-  | Fine-tuning Llama3.2 1B | Fine-tuned on a reviews sentiment analysis Dataset | [HuggingFce →](https://huggingface.co/Kynooo/reviews-sentiment-gguf) |
-  
-  
+## Live Projects
 
-  ---
-  
-  ## Portfolio
+### 🔹 Enterprise RAG System with Evaluation
+**Problem:** Naive RAG in regulated domains (banking) risks confident wrong answers, a liability, not just a bad UX.
+**Approach:** Built naive vs. advanced RAG pipelines (semantic chunking, structure-aware parsing, RAPTOR, multi-query, cross-encoder reranking), benchmarked on a 50-question hand-verified test set.
+**Result:** Recall 58%→91% · Correctness 0.49→0.83 · Hallucination rate 18%→1%
+🔗 [GitHub](https://github.com/ammarr01/Enterprise-RAG-System-with-Evaluation)
 
-  https://ammarr01.github.io/
+### 🔹 AI Document Assistant
+**Problem:** Teams waste hours manually searching PDFs, reports, and contracts for answers.
+**Approach:** Built a RAG app that answers questions in plain language with the exact source cited.
+**Result:** Document search cut from hours to seconds, across multiple files at once.
+🔗 [Demo video](https://www.dropbox.com/scl/fi/iiagk4mvjdieh8z4ehtxv/qna-app.demo.mp4?rlkey=h4h8zz8zgieqtqc1hsjk53osj&st=9a1ej86m&raw=1) · [GitHub](https://github.com/ammarr01/AI-Document-Assistant-Application-with-source-citation)
 
-  ---
+### 🔹 Customer Support AI Chatbot
+**Problem:** Repetitive customer questions (hours, pricing, order status, returns) drain support team time.
+**Approach:** Built a LangChain ReAct agent with FAQ, product, and order tools to auto-handle first-line support.
+**Result:** Instant 24/7 responses — deployed live on a demo e-commerce storefront.
+🔗 [Live demo](https://gocart-production-dfb2.up.railway.app/) · [GitHub](https://github.com/ammarr01/Customer-Support-AI-Chatbot)
 
-  ## Let's work together
+### 🔹 AI Doc to Excel
+**Problem:** Structured data trapped in PDFs, scans, and images needs manual re-entry into spreadsheets.
+**Approach:** Built an extraction pipeline that parses documents/images and outputs clean, structured Excel files.
+**Result:** Manual data entry replaced with automated extraction.
+🔗 [Demo video](https://www.dropbox.com/scl/fi/fmm689ha6oeze38vs9ql9/DocTOExcel.demo.mp4?rlkey=mwp6nt72enf5ggtw173ap62bo&st=id0z0osd&raw=1) · [GitHub](https://github.com/ammarr01/AI-powered-document-extraction-Application)
 
-  Open to freelance projects and agency collaborations.
+### 🔹 Fine-tuning Llama 3.2 1B
+**Problem:** General-purpose LLMs aren't optimized for narrow, repetitive classification tasks like sentiment analysis.
+**Approach:** Fine-tuned Llama 3.2 1B on a reviews sentiment analysis dataset.
+**Result:** Lightweight, task-specific model published and ready to deploy.
+🔗 [HuggingFace](https://huggingface.co/Kynooo/reviews-sentiment-gguf)
 
-  📩 scholarammar@gmail.com
+---
 
-  ---
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Prompt & Context Engineering](https://img.shields.io/badge/Prompt%20%26%20Context%20Engineering-4B4BFF?style=flat)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B4BFF?style=flat)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
+![Evaluation Frameworks](https://img.shields.io/badge/Evaluation%20Frameworks-2E8B57?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6A5ACD?style=flat)
+![Fine-tuning LLMs](https://img.shields.io/badge/Fine--tuning%20LLMs-B22222?style=flat)
+
+---
+
+## Portfolio
+
+🌐 [ammarr01.github.io](https://ammarr01.github.io/)
+
+---
+
+## Let's Work Together
+
+Open to freelance projects and agency collaborations.
+
+📩 [scholarammar@gmail.com](mailto:scholarammar@gmail.com)
+
+</div>
