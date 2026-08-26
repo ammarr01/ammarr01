@@ -22,25 +22,25 @@ Full stack AI systems that automate real business operations, from the React fro
 **Problem:** Naive RAG in regulated domains (banking) risks confident wrong answers, a liability, not just a bad UX.
 **Approach:** Built naive vs. advanced RAG pipelines (semantic chunking, structure-aware parsing, RAPTOR, multi-query, cross-encoder reranking), benchmarked on a 50-question hand-verified test set.
 **Result:** Recall 58%→91% · Correctness 0.49→0.83 · Hallucination rate 18%→1%
-🔗 [GitHub](https://github.com/ammarr01/Enterprise-RAG-System-with-Evaluation)
+🔗 [Repo](https://github.com/ammarr01/Enterprise-RAG-System-with-Evaluation)
 
 ### 🔹 AI Document Assistant
 **Problem:** Teams waste hours manually searching PDFs, reports, and contracts for answers.
 **Approach:** Built a RAG app that answers questions in plain language with the exact source cited.
 **Result:** Document search cut from hours to seconds, across multiple files at once.
-🔗 [Demo video](https://www.dropbox.com/scl/fi/iiagk4mvjdieh8z4ehtxv/qna-app.demo.mp4?rlkey=h4h8zz8zgieqtqc1hsjk53osj&st=9a1ej86m&raw=1) · [GitHub](https://github.com/ammarr01/AI-Document-Assistant-Application-with-source-citation)
+🔗 [Demo video](https://www.dropbox.com/scl/fi/iiagk4mvjdieh8z4ehtxv/qna-app.demo.mp4?rlkey=h4h8zz8zgieqtqc1hsjk53osj&st=9a1ej86m&raw=1) · [Repo](https://github.com/ammarr01/AI-Document-Assistant-Application-with-source-citation)
 
 ### 🔹 Customer Support AI Chatbot
 **Problem:** Repetitive customer questions (hours, pricing, order status, returns) drain support team time.
 **Approach:** Built a LangChain ReAct agent with FAQ, product, and order tools to auto-handle first-line support.
-**Result:** Instant 24/7 responses — deployed live on a demo e-commerce storefront.
-🔗 [Live demo](https://gocart-production-dfb2.up.railway.app/) · [GitHub](https://github.com/ammarr01/Customer-Support-AI-Chatbot)
+**Result:** Instant 24/7 responses, deployed live on a demo e-commerce storefront.
+🔗 [Repo](https://github.com/ammarr01/Customer-Support-AI-Chatbot)
 
 ### 🔹 AI Doc to Excel
 **Problem:** Structured data trapped in PDFs, scans, and images needs manual re-entry into spreadsheets.
 **Approach:** Built an extraction pipeline that parses documents/images and outputs clean, structured Excel files.
 **Result:** Manual data entry replaced with automated extraction.
-🔗 [Demo video](https://www.dropbox.com/scl/fi/fmm689ha6oeze38vs9ql9/DocTOExcel.demo.mp4?rlkey=mwp6nt72enf5ggtw173ap62bo&st=id0z0osd&raw=1) · [GitHub](https://github.com/ammarr01/AI-powered-document-extraction-Application)
+🔗 [Demo video](https://www.dropbox.com/scl/fi/fmm689ha6oeze38vs9ql9/DocTOExcel.demo.mp4?rlkey=mwp6nt72enf5ggtw173ap62bo&st=id0z0osd&raw=1) · [Repo](https://github.com/ammarr01/AI-powered-document-extraction-Application)
 
 ### 🔹 Fine-tuning Llama 3.2 1B
 **Problem:** General-purpose LLMs aren't optimized for narrow, repetitive classification tasks like sentiment analysis.
@@ -72,11 +72,6 @@ Full stack AI systems that automate real business operations, from the React fro
 
 ---
 
-## Portfolio
-
-🌐 [ammarr01.github.io](https://ammarr01.github.io/)
-
----
 
 ## Let's Work Together
 
