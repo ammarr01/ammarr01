@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=120&section=header&text=AMMAR&fontSize=50&fontColor=ffffff" width="100%"/>
-### Full Stack AI Engineer | RAG Pipelines & LLM Agents for Business Automation
- 
-</div>
----
-
 ## What I Build
 
 Full stack AI systems that automate real business operations, from the React frontend to the Python backend to the LLM pipeline itself.
