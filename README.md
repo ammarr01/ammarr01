@@ -1,11 +1,3 @@
-<div align="center">
-### Full Stack AI Engineer | RAG Pipelines & LLM Agents for Business Automation
- 
-<img src="https://github-readme-stats.vercel.app/api?username=ammarr01&show_icons=true&theme=default&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarr01&layout=compact&hide_border=true" width="42%"/>
-</div>
----
-
 ## What I Build
 
 Full stack AI systems that automate real business operations, from the React frontend to the Python backend to the LLM pipeline itself.
