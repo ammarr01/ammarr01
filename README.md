@@ -10,7 +10,7 @@
 
   ## Stack
 
-  Python · FastAPI · LangChain · LangGraph · LlamaIndex · OpenAI · ChromaDB · Docker · Ollama · 
+  Python · FastAPI · LangChain · LangGraph · LlamaIndex · OpenAI · ChromaDB · Pinecone . Docker · Ollama · 
 
   ---
 
