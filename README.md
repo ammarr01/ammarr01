@@ -1,6 +1,6 @@
 ## What I Build
 
-Full stack AI systems that automate real business operations, from the React frontend to the Python backend to the LLM pipeline itself.
+AI systems that automate real business operations, cut costs and remove heavy workload.
 
 - **Customer support automation**: chatbots that handle FAQs, order tracking, and support tickets 24/7 without human intervention
 - **Document intelligence**: RAG pipelines that let teams query large document libraries and get answers with source citations
