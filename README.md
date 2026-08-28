@@ -38,7 +38,7 @@ AI systems that automate real business operations, cut costs and remove heavy wo
 **Problem:** General-purpose LLMs aren't optimized for narrow, repetitive classification tasks like sentiment analysis.
 **Approach:** Fine-tuned Llama 3.2 1B on a reviews sentiment analysis dataset.
 **Result:** Lightweight, task-specific model published and ready to deploy.
-🔗 [HuggingFace](https://huggingface.co/Kynooo/reviews-sentiment-gguf)
+🔗 [HuggingFace](https://huggingface.co/Kynooo/reviews-sentiment-gguf) · [Repo](https://github.com/ammarr01/Fine-tuning-a-model-on-reviews-sentiment-analysis)
 
 ---
 
